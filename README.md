@@ -1,4 +1,4 @@
-## Deskripsi Proyek
+## Sistem Prediksi Kualitas Air
 
 Proyek ini bertujuan untuk meningkatkan performa prediksi kualitas air dengan menggunakan algoritma Simulated Annealing untuk mengoptimalkan parameter model klasifikasi. Kami menggunakan beberapa algoritma klasifikasi seperti KNN, SVM, Random Forest, dan Decision Tree. Data yang digunakan berasal dari dataset kualitas air di Kaggle, yang terdiri dari 3276 data dengan 10 atribut.
 
