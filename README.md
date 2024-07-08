@@ -7,6 +7,8 @@ Proyek ini bertujuan untuk meningkatkan performa prediksi kualitas air dengan me
 - **Preprocessing Data**: Mengisi data kosong, mengecek duplikasi, mengidentifikasi outliers, dan standarisasi data.
 - **Resampling Data**: Menyeimbangkan kelas menggunakan SMOTE.
 
+**Dataset** : [Water Quality](https://www.kaggle.com/datasets/sonialikhan/water-quality)
+
 ## Graphical User Interface
 ![MacBook Air - 6](https://github.com/FerdiRJ/Sistem-klasifikasi-kualitas-air/assets/131805279/88e860d1-ad01-4fe7-98df-46d66377644a)
 ![MacBook Air - 7](https://github.com/FerdiRJ/Sistem-klasifikasi-kualitas-air/assets/131805279/31b83258-4745-4b55-91f4-6138d25e34ff)
